@@ -12,5 +12,9 @@ practica
 2. ho
 3. j 
 
+-[x] esta listo
+-[] no esta listo
+
+
 [OLE](https://www.ole.com.ar/)
 ![OLE IMG](ole.jpg)
