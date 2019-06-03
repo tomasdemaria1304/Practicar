@@ -13,8 +13,8 @@ practica
 3. j 
 ~dema~
 
--[x] esta listo
--[] no esta listo
+-[x]esta listo
+-[]no esta listo
 
 
 [OLE](https://www.ole.com.ar/)
