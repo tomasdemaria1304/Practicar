@@ -11,6 +11,7 @@ practica
 1. dema
 2. ho
 3. j 
+~dema~
 
 -[x] esta listo
 -[] no esta listo
