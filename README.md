@@ -4,13 +4,13 @@ practica
 ### Practicar
 *hola*
 **hola**
-*dema
-*soy
-*dema
+* dema
+* soy
+* dema
 
-1.dema
-2.ho
-3.j 
+1. dema
+2. ho
+3. j 
 
 [OLE](https://www.ole.com.ar/)
 [OLE IMG](ole.jpg)
