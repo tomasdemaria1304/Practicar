@@ -15,7 +15,7 @@ practica
 
 -[x]esta listo
 -[]no esta listo
-
+- [x] This is a complete item
 
 [OLE](https://www.ole.com.ar/)
 ![OLE IMG](ole.jpg)
